@@ -3,4 +3,5 @@ Hello, I'm Seniorz Developer. I've been working in this field for a long time an
 Merhaba, ben Seniorz Developer. Uzun süredir bu işte çalışıyorum ve kendimi geliştirmeye devam ediyorum. Uzun zamandır Githup kullanmıyorum. Bir gün mutlaka kendi kaynaklarımı kullanarak paylaşım yapacağım.
 
 Bana Ulaşmak İçin ;
+
 Discord : seniorrz_
